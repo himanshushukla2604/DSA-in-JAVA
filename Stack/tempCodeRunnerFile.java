@@ -1,0 +1,1 @@
+s.charAt(i)
